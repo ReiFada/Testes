@@ -6,13 +6,13 @@
 }
 /*#### [TEMA DE FUNDO] ####*/
 .room-background {
-	background:  ;
+	background: ;
 	width: ;
 	height: ;
 }
 /*#### [ICONE DA SALA] ####*/
 .icon-room {
-    background: url( ) no-repeat;
+    background: url("https://image.prntscr.com/image/L6YS1zFSQpG1lkvhCNP0XA.gif" ) no-repeat;
     width: 38px !important;
     height: 38px !important;
     top: 8px !important;
